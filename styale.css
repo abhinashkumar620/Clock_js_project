@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: white;
+
+}
+.heding{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.clock-contener{
+    font-size: 2rem;
+    border: 1px solid white;
+    padding: 10px 10px;
+    box-shadow:3px 2px 5px azure;
+
+}
